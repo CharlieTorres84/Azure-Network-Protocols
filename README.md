@@ -44,6 +44,11 @@ In this tutorial, were going to be performing some activities on the network bet
 <img src="https://i.imgur.com/2YVAvx3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+
+<p>
+<img src="https://i.imgur.com/NEciWuZ.png" height="80%" width="80" alt="Disk Sanitization Steps"/>
+</p>
+<p>
 First, we need to create a "Resource Group" so click on the "Resource Group" icon to create.
 </p>
 <br />
@@ -52,6 +57,6 @@ First, we need to create a "Resource Group" so click on the "Resource Group" ico
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-L
+
 </p>
 <br />
