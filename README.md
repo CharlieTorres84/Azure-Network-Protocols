@@ -36,7 +36,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <img src="https://i.imgur.com/wspvaJT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In this tutorial, were going to be performing some activities on the network between the 2 "Virtual Machines" (VM's) that we created in "Azure Portal" in which is a "Windows" and "Linux" (Ubuntu) Virtual Machines (VM'S). We are also going to be working with "Azure Network Security Groups" which are "Firewalls" in Azure. Each "Virtual Machine" has it's own "Network Security Group" and were going to test and play with it a bit. The software and tools that were going to be using is "Wireshark" which is a (protocol analyzer), this let's us see the actual raw traffic that's being transmitted between the 2 "Virtual Machines" (VM'S). Were also going to using a bunch of random "Command Line" tools to generate traffic between the 2 "Virtual Machines" (VM's). So, first we need to log into the "Azure Portal" at (portal.azure.com) so we that can get started with this tutorial.
 </p>
 <br />
 
