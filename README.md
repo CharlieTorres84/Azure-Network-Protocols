@@ -61,5 +61,4 @@ So we can type in a "Resource Group" name here and then click on "Review and Cre
 </p>
 <br />
 
-<p>
-<img src="
+
