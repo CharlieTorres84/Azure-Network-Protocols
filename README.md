@@ -54,9 +54,12 @@ First, we need to create a "Resource Group" so click on the "Resource Group" ico
 <br />
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Z7roQc7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+So we can type in a "Resource Group" name here and then click on "Review and Create" to create our "Resource Group".
 </p>
 <br />
+
+<p>
+<img src="
